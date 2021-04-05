@@ -15,3 +15,7 @@ run "docker-compose -f docker-compose.yml up -d --build"<br />
 
 optional<br />
 windows can run the start.cmd in the root floder<br />
+
+## Architecture
+
+### Back-End
