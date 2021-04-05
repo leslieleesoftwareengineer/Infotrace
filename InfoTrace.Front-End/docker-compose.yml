@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  infotrace:
+    container_name: infotrace
+    image: ${DOCKER_REGISTRY-}infotrace
+    build:
+      context: .
+      dockerfile: infotrace/Dockerfile
+    ports:
+    - "3001:3000"

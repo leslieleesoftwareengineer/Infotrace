@@ -1,0 +1,29 @@
+{
+  "Routes": [
+    //Infotrace API
+    {
+      "DownstreamPathTemplate": "/v1/api/Trace/bing",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "traceapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplate": "/trace/bing",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/v1/api/Trace/google",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "traceapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplate": "/trace/google",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+  ],
+}

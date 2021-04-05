@@ -1,0 +1,29 @@
+{
+  "ReRoutes": [
+    //Cars API
+    {
+      "DownstreamPathTemplate": "/v1/api/Trace/bing",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44351"
+        }
+      ],
+      "UpstreamPathTemplate": "/trace/bing",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/v1/api/Trace/google",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44351"
+        }
+      ],
+      "UpstreamPathTemplate": "/trace/google",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+  ]
+}

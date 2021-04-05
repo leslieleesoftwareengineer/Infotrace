@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.API\\InfoTrace.API.csproj": {}
+  },
+  "projects": {
+    "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.API\\InfoTrace.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.API\\InfoTrace.API.csproj",
+        "projectName": "InfoTrace.API",
+        "projectPath": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.API\\InfoTrace.API.csproj",
+        "packagesPath": "C:\\Users\\leslie\\.nuget\\packages\\",
+        "outputPath": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leslie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\InfoTrace.Infrastructure.csproj": {
+                "projectPath": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\InfoTrace.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Alamut.MediatR.Caching.DependencyInjection": {
+              "target": "Package",
+              "version": "[0.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR.Extensions.FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\InfoTrace.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\InfoTrace.Infrastructure.csproj",
+        "projectName": "InfoTrace.Infrastructure",
+        "projectPath": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\InfoTrace.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\leslie\\.nuget\\packages\\",
+        "outputPath": "D:\\InfoTrace\\InfoTrace.Back-End\\src\\InfoTrace.Microservice\\InfoTrace.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leslie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+services:
+  apigateway:
+    build:
+      context: D:\InfoTrace\InfoTrace.Back-End
+      dockerfile: src/ApiGateway/APIGateway/Dockerfile
+    container_name: apigateway
+    depends_on:
+      infotrace.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: apigateway
+    ports:
+    - published: 7000
+      target: 80
+    volumes:
+    - C:\Users\leslie\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\leslie\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  infotrace.api:
+    build:
+      context: D:\InfoTrace\InfoTrace.Back-End
+      dockerfile: src/InfoTrace.Microservice/InfoTrace.API/Dockerfile
+    container_name: traceapi
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: infotraceapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\leslie\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\leslie\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

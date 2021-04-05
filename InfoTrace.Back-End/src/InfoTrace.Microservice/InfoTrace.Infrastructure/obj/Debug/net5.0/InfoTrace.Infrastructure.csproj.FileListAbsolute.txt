@@ -1,0 +1,11 @@
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\bin\Debug\net5.0\InfoTrace.Infrastructure.deps.json
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\bin\Debug\net5.0\InfoTrace.Infrastructure.dll
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\bin\Debug\net5.0\ref\InfoTrace.Infrastructure.dll
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\bin\Debug\net5.0\InfoTrace.Infrastructure.pdb
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.AssemblyInfoInputs.cache
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.AssemblyInfo.cs
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.csproj.CoreCompileInputs.cache
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.dll
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\ref\InfoTrace.Infrastructure.dll
+D:\InfoTrace\InfoTrace\src\InfoTrace.Infrastructure\obj\Debug\net5.0\InfoTrace.Infrastructure.pdb

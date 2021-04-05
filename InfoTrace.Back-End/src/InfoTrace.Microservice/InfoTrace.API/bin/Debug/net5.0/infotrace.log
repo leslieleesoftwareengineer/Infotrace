@@ -1,0 +1,220 @@
+2021-04-05 03:42:59,329  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page02.html
+ 2021-04-05 03:42:59,360  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 30.3071ms - 200
+ 2021-04-05 03:42:59,363  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 35.6573ms - 200
+ 2021-04-05 03:42:59,382  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:42:59,385  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:42:59,403  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 18.2874ms - 200
+ 2021-04-05 03:42:59,405  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 23.2535ms - 200
+ 2021-04-05 03:42:59,439  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:42:59,440  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:42:59,466  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 26.0036ms - 200
+ 2021-04-05 03:42:59,469  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 30.1489ms - 200
+ 2021-04-05 03:42:59,479  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:42:59,481  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:42:59,501  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 20.2692ms - 200
+ 2021-04-05 03:42:59,503  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 24.8102ms - 200
+ 2021-04-05 03:42:59,513  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:42:59,515  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:42:59,533  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.8366ms - 200
+ 2021-04-05 03:42:59,536  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.5899ms - 200
+ 2021-04-05 03:42:59,547  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:42:59,549  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:42:59,567  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.4828ms - 200
+ 2021-04-05 03:42:59,569  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.2769ms - 200
+ 2021-04-05 03:42:59,581  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:42:59,584  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:42:59,604  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 20.4787ms - 200
+ 2021-04-05 03:42:59,607  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 25.6169ms - 200
+ 2021-04-05 03:42:59,617  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:42:59,619  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:42:59,638  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 19.0898ms - 200
+ 2021-04-05 03:42:59,640  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 23.1405ms - 200
+ 2021-04-05 03:42:59,652  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:42:59,654  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:42:59,676  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 21.7579ms - 200
+ 2021-04-05 03:42:59,678  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 26.0206ms - 200
+ 2021-04-05 03:42:59,793  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [24] - MESSAGE: Handled BingTraceCommand
+ 2021-04-05 03:44:31,583  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://[::]:443
+ 2021-04-05 03:44:31,639  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://[::]:80
+ 2021-04-05 03:44:31,642  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-04-05 03:44:31,644  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2021-04-05 03:44:31,646  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: /app
+ 2021-04-05 03:44:35,044  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [22] - MESSAGE: Handling BingTraceCommand
+ 2021-04-05 03:44:35,087  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page01.html
+ 2021-04-05 03:44:35,093  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page01.html
+ 2021-04-05 03:44:35,364  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 270.5206ms - 200
+ 2021-04-05 03:44:35,367  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 283.695ms - 200
+ 2021-04-05 03:44:35,401  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page02.html
+ 2021-04-05 03:44:35,404  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page02.html
+ 2021-04-05 03:44:35,418  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 14.2727ms - 200
+ 2021-04-05 03:44:35,421  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 19.5984ms - 200
+ 2021-04-05 03:44:35,434  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:44:35,436  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:44:35,450  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.7824ms - 200
+ 2021-04-05 03:44:35,452  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 18.7126ms - 200
+ 2021-04-05 03:44:35,463  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:44:35,465  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:44:35,479  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 14.1952ms - 200
+ 2021-04-05 03:44:35,482  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 19.1716ms - 200
+ 2021-04-05 03:44:35,491  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:44:35,494  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:44:35,507  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 12.7934ms - 200
+ 2021-04-05 03:44:35,510  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 18.2513ms - 200
+ 2021-04-05 03:44:35,562  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:44:35,564  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:44:35,577  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 12.5209ms - 200
+ 2021-04-05 03:44:35,579  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.0687ms - 200
+ 2021-04-05 03:44:35,591  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:44:35,593  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:44:35,609  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.4343ms - 200
+ 2021-04-05 03:44:35,611  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.2647ms - 200
+ 2021-04-05 03:44:35,634  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:44:35,637  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:44:35,651  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 14.2619ms - 200
+ 2021-04-05 03:44:35,654  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 19.1447ms - 200
+ 2021-04-05 03:44:35,661  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:44:35,663  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:44:35,676  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 12.8572ms - 200
+ 2021-04-05 03:44:35,679  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.1941ms - 200
+ 2021-04-05 03:44:35,687  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:44:35,689  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:44:35,705  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.3621ms - 200
+ 2021-04-05 03:44:35,707  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.4733ms - 200
+ 2021-04-05 03:44:35,841  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [24] - MESSAGE: Handled BingTraceCommand
+ 2021-04-05 03:45:01,177  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [22] - MESSAGE: Handling GoogleTraceCommand
+ 2021-04-05 03:45:01,181  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page01.html
+ 2021-04-05 03:45:01,183  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page01.html
+ 2021-04-05 03:45:01,197  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.3267ms - 200
+ 2021-04-05 03:45:01,199  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 18.0719ms - 200
+ 2021-04-05 03:45:01,208  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page02.html
+ 2021-04-05 03:45:01,210  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page02.html
+ 2021-04-05 03:45:01,224  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.5907ms - 200
+ 2021-04-05 03:45:01,226  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.9725ms - 200
+ 2021-04-05 03:45:01,238  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page03.html
+ 2021-04-05 03:45:01,240  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page03.html
+ 2021-04-05 03:45:01,257  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 16.4867ms - 200
+ 2021-04-05 03:45:01,258  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.552ms - 200
+ 2021-04-05 03:45:01,292  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page04.html
+ 2021-04-05 03:45:01,294  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page04.html
+ 2021-04-05 03:45:01,309  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.2443ms - 200
+ 2021-04-05 03:45:01,311  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 18.9459ms - 200
+ 2021-04-05 03:45:01,327  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page05.html
+ 2021-04-05 03:45:01,329  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page05.html
+ 2021-04-05 03:45:01,342  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.0084ms - 200
+ 2021-04-05 03:45:01,344  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.3921ms - 200
+ 2021-04-05 03:45:01,352  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page06.html
+ 2021-04-05 03:45:01,354  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page06.html
+ 2021-04-05 03:45:01,367  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.4249ms - 200
+ 2021-04-05 03:45:01,369  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.4311ms - 200
+ 2021-04-05 03:45:01,381  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page07.html
+ 2021-04-05 03:45:01,383  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page07.html
+ 2021-04-05 03:45:01,397  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 13.5138ms - 200
+ 2021-04-05 03:45:01,399  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 18.0127ms - 200
+ 2021-04-05 03:45:01,406  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page08.html
+ 2021-04-05 03:45:01,408  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page08.html
+ 2021-04-05 03:45:01,423  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 14.2748ms - 200
+ 2021-04-05 03:45:01,424  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 17.9515ms - 200
+ 2021-04-05 03:45:01,439  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page09.html
+ 2021-04-05 03:45:01,441  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page09.html
+ 2021-04-05 03:45:01,461  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 19.5335ms - 200
+ 2021-04-05 03:45:01,463  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 24.0395ms - 200
+ 2021-04-05 03:45:01,471  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page10.html
+ 2021-04-05 03:45:01,473  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page10.html
+ 2021-04-05 03:45:01,509  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 36.0942ms - 200
+ 2021-04-05 03:45:01,511  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 40.5964ms - 200
+ 2021-04-05 03:45:01,521  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [24] - MESSAGE: Handled GoogleTraceCommand
+ 2021-04-05 03:45:14,345  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [22] - MESSAGE: Handling BingTraceCommand
+ 2021-04-05 03:45:14,347  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page01.html
+ 2021-04-05 03:45:14,350  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page01.html
+ 2021-04-05 03:45:14,373  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 23.3544ms - 200
+ 2021-04-05 03:45:14,376  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 28.7748ms - 200
+ 2021-04-05 03:45:14,389  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page02.html
+ 2021-04-05 03:45:14,392  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page02.html
+ 2021-04-05 03:45:14,408  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 16.0864ms - 200
+ 2021-04-05 03:45:14,411  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 21.4303ms - 200
+ 2021-04-05 03:45:14,419  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:45:14,422  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page03.html
+ 2021-04-05 03:45:14,440  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 18.417ms - 200
+ 2021-04-05 03:45:14,443  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 23.6672ms - 200
+ 2021-04-05 03:45:14,450  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:45:14,452  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page04.html
+ 2021-04-05 03:45:14,467  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 14.5741ms - 200
+ 2021-04-05 03:45:14,469  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 19.1743ms - 200
+ 2021-04-05 03:45:14,477  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:45:14,480  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page05.html
+ 2021-04-05 03:45:14,496  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.9653ms - 200
+ 2021-04-05 03:45:14,498  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.755ms - 200
+ 2021-04-05 03:45:14,506  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:45:14,508  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page06.html
+ 2021-04-05 03:45:14,523  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.2951ms - 200
+ 2021-04-05 03:45:14,525  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 19.6623ms - 200
+ 2021-04-05 03:45:14,532  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:45:14,534  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page07.html
+ 2021-04-05 03:45:14,551  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 16.5412ms - 200
+ 2021-04-05 03:45:14,553  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 21.2045ms - 200
+ 2021-04-05 03:45:14,564  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:45:14,566  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page08.html
+ 2021-04-05 03:45:14,583  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.3818ms - 200
+ 2021-04-05 03:45:14,586  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.3894ms - 200
+ 2021-04-05 03:45:14,594  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:45:14,596  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page09.html
+ 2021-04-05 03:45:14,612  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 16.1356ms - 200
+ 2021-04-05 03:45:14,614  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.3702ms - 200
+ 2021-04-05 03:45:14,625  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:45:14,628  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Bing/Page10.html
+ 2021-04-05 03:45:14,646  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.9144ms - 200
+ 2021-04-05 03:45:14,649  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 23.5777ms - 200
+ 2021-04-05 03:45:14,766  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [24] - MESSAGE: Handled BingTraceCommand
+ 2021-04-05 03:45:19,085  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [22] - MESSAGE: Handling GoogleTraceCommand
+ 2021-04-05 03:45:19,088  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page01.html
+ 2021-04-05 03:45:19,090  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page01.html
+ 2021-04-05 03:45:19,108  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.6897ms - 200
+ 2021-04-05 03:45:19,110  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.6735ms - 200
+ 2021-04-05 03:45:19,122  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page02.html
+ 2021-04-05 03:45:19,124  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page02.html
+ 2021-04-05 03:45:19,143  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 18.2015ms - 200
+ 2021-04-05 03:45:19,145  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.9388ms - 200
+ 2021-04-05 03:45:19,153  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page03.html
+ 2021-04-05 03:45:19,155  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page03.html
+ 2021-04-05 03:45:19,170  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 15.1537ms - 200
+ 2021-04-05 03:45:19,173  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 20.0731ms - 200
+ 2021-04-05 03:45:19,181  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page04.html
+ 2021-04-05 03:45:19,183  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page04.html
+ 2021-04-05 03:45:19,202  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 19.1109ms - 200
+ 2021-04-05 03:45:19,206  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 25.3476ms - 200
+ 2021-04-05 03:45:19,214  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page05.html
+ 2021-04-05 03:45:19,216  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page05.html
+ 2021-04-05 03:45:19,236  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 19.2043ms - 200
+ 2021-04-05 03:45:19,238  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 24.1023ms - 200
+ 2021-04-05 03:45:19,246  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page06.html
+ 2021-04-05 03:45:19,248  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page06.html
+ 2021-04-05 03:45:19,265  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 16.5983ms - 200
+ 2021-04-05 03:45:19,268  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.056ms - 200
+ 2021-04-05 03:45:19,275  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page07.html
+ 2021-04-05 03:45:19,277  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page07.html
+ 2021-04-05 03:45:19,294  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.4137ms - 200
+ 2021-04-05 03:45:19,297  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.3359ms - 200
+ 2021-04-05 03:45:19,305  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page08.html
+ 2021-04-05 03:45:19,308  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page08.html
+ 2021-04-05 03:45:19,329  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 20.9092ms - 200
+ 2021-04-05 03:45:19,331  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 26.0031ms - 200
+ 2021-04-05 03:45:19,338  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page09.html
+ 2021-04-05 03:45:19,340  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page09.html
+ 2021-04-05 03:45:19,357  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.2533ms - 200
+ 2021-04-05 03:45:19,360  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 21.6798ms - 200
+ 2021-04-05 03:45:19,367  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page10.html
+ 2021-04-05 03:45:19,369  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://infotrack-tests.infotrack.com.au/Google/Page10.html
+ 2021-04-05 03:45:19,387  INFO System.Net.Http.HttpClient.Default.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 17.8304ms - 200
+ 2021-04-05 03:45:19,389  INFO System.Net.Http.HttpClient.Default.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.6942ms - 200
+ 2021-04-05 03:45:19,397  INFO InfoTrace.API.Behaviors.LoggingBehavior.MoveNext [24] - MESSAGE: Handled GoogleTraceCommand
+ 2021-04-05 04:17:24,435  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://[::]:443
+ 2021-04-05 04:17:24,490  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://[::]:80
+ 2021-04-05 04:17:24,492  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-04-05 04:17:24,495  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2021-04-05 04:17:24,497  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: /app
+ 2021-04-05 04:44:53,757  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://[::]:443
+ 2021-04-05 04:44:53,814  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://[::]:80
+ 2021-04-05 04:44:53,816  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-04-05 04:44:53,818  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2021-04-05 04:44:53,821  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: /app
+ 

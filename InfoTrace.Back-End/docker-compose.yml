@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  infotrace.api:
+    image: ${DOCKER_REGISTRY-}infotraceapi
+    build:
+      context: .
+      dockerfile: src/InfoTrace.Microservice/InfoTrace.API/Dockerfile
+
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: src/ApiGateway/APIGateway/Dockerfile
+

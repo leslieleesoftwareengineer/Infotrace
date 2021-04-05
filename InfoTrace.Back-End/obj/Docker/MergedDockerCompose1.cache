@@ -1,0 +1,73 @@
+services:
+  apigateway:
+    build:
+      context: D:\InfoTrace\InfoTrace.Back-End
+      dockerfile: src/ApiGateway/APIGateway/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: ApiGateway
+      target: base
+    container_name: apigateway
+    depends_on:
+      infotrace.api:
+        condition: service_started
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: ''
+    image: apigateway:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net5.0/ApiGateway.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 7000
+      target: 80
+    tty: true
+    volumes:
+    - D:\InfoTrace\InfoTrace.Back-End\src\ApiGateway\APIGateway:/app:rw
+    - C:\Users\leslie\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\leslie\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\leslie\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Users\leslie\.nuget\packages:/root/.nuget/packages:ro
+    - D:\InfoTrace\InfoTrace.Back-End:/src:rw
+  infotrace.api:
+    build:
+      context: D:\InfoTrace\InfoTrace.Back-End
+      dockerfile: src/InfoTrace.Microservice/InfoTrace.API/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: InfoTrace.API
+      target: base
+    container_name: traceapi
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: ''
+    image: infotraceapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net5.0/InfoTrace.API.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - target: 80
+    - target: 443
+    tty: true
+    volumes:
+    - D:\InfoTrace\InfoTrace.Back-End\src\InfoTrace.Microservice\InfoTrace.API:/app:rw
+    - C:\Users\leslie\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\leslie\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\leslie\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Users\leslie\.nuget\packages:/root/.nuget/packages:ro
+    - D:\InfoTrace\InfoTrace.Back-End:/src:rw
+version: '3.4'
