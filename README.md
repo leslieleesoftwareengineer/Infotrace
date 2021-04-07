@@ -1,4 +1,4 @@
-# Infotrace
+# Infotrack
 
 ## Installation
 
@@ -33,7 +33,7 @@ Back-End architectrue designed as a Microservice based on Asp.Net Core<br/>
 <b>ApiGateway</b> will hanlder all the client request and assign to related services<br/>
 <b>InfoTrace.Microservice</b> is the service which provide google scraping api and bing scraping api.<br/>
 
-### InfoTrace.Microservice
+### InfoTrack.Microservice
 
 Infotrace.Microservice incluede 2 project as following
 
