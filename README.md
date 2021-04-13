@@ -8,6 +8,8 @@ Please install docker via https://www.docker.com/
 
 Go to the root folder<br />
 Open the command line<br />
+<code>run "dotnet dev-certs https -ep %USERPROFILE%\.aspnet\https\aspnetapp.pfx -p 123456"</code><br />
+<code>run "dotnet dev-certs https --trust"</code><br />
 <code>run "cd ./InfoTrace.Back-End"</code><br />
 <code>run "docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d --build"</code><br />
 <code>run "cd ../InfoTrace.Front-End"</code><br />
