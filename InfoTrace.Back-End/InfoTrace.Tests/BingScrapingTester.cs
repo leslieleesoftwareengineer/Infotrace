@@ -60,6 +60,7 @@ namespace InfoTrace.Tests
 			context.SetContent(content);
 			context.SetSite("https://www.infotrack.com.au");
 			List<int> l = context.Scrape();
+			Assert.Equal(l.Count, 1);
 			Assert.Equal(l[0], 0);
 		}
 		[Fact]
